@@ -1,0 +1,368 @@
+body.index{ 
+	background-image:url('f.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+
+	
+}
+ul li{
+    float: left;
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	margin-right: 2px;
+	margin-bottom: 2px;
+
+
+  
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+ul li a:hover {
+	background-color: green;
+}
+ul li ul li{
+	display: none;
+}
+ul li:hover ul li{
+	display: block;
+}
+
+.logo img
+{
+    width: 150px;
+    height: auto;
+
+    
+}
+
+h1.index
+{
+	color: black;
+	position: absolute; left: 575px; top: -20px;
+	font-size: 50px;
+}
+
+h1.our-goal
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.drug-abuse
+{
+	color: black;
+	position: absolute; left: 400px; top: 70px;
+	font-size: 50px;
+}
+
+h1.what-you-want
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.fill-up-a-form
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.real-stories
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.result
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.blogs
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.animation
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.dhaka
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.other-cities
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.photos
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h1.videos
+{
+	color: black;
+	position: absolute; left: 575px; top: 50px;
+	font-size: 50px;
+}
+
+h2
+{
+	color: black;
+	position: absolute; left: 520px; top: 75px;
+	font-style: italic;
+	
+}
+
+p
+{
+	color: black;
+	position: absolute;left: 300px; top: 300px;
+	font-size: 30px;
+	font-style: bold; 
+	font-style: italic;
+}
+
+body.result
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.our-goal
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.drug-abuse
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.what-you-want
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.fill-up-a-form
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.real-stories
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.blogs
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.animation
+{
+	background-image:url('h.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.dhaka
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.other-cities
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.photos
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body.videos
+{
+	background-image:url('i.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+form.fill
+{
+	position: absolute;left: 0px;top: 150px;
+}
+
+video.vid
+{
+	position: absolute;left: 450px;top: 200px;
+}
+
+p.para
+{
+	position: absolute;left: 20px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para2
+{
+	position: absolute;left: 20px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para3
+{
+	position: absolute;left: 20px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para4
+{
+	position: absolute;left: 20px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para5
+{
+	position: absolute;left: 20px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para6
+{
+	position: absolute;left: 20px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para7
+{
+	position: absolute;left: 500px;top: 150px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para8
+{
+	position: absolute;left: 500px;top: 200px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para10
+{
+	position: absolute;left: 500px;top: 200px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+p.para11
+{
+	position: absolute;left: 500px;top: 250px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+p.para12
+{
+	position: absolute;left: 500px;top: 300px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+p.para13
+{
+	position: absolute;left: 500px;top: 350px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para9
+{
+	position: absolute;left: 500px;top: 200px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para14
+{
+	position: absolute;left: 500px;top: 250px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+p.para15
+{
+	position: absolute;left: 500px;top: 500px; right: 20px;
+	font-size: 20px;
+	color: black;
+}
